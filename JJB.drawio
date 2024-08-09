@@ -635,7 +635,7 @@
         <mxCell id="da0eoVxicawtdHhnWzWs-15" value="&lt;div&gt;Opponent&lt;/div&gt;&lt;div&gt;doesn&#39;t react&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-278" y="187" width="75" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="84AdNy84lGjLZIlDbbnX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="da0eoVxicawtdHhnWzWs-18" target="da0eoVxicawtdHhnWzWs-19">
+        <mxCell id="84AdNy84lGjLZIlDbbnX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="da0eoVxicawtdHhnWzWs-18" target="da0eoVxicawtdHhnWzWs-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="da0eoVxicawtdHhnWzWs-18" value="One of opponent&#39;s legs is over my hips, the other one by the side" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -676,6 +676,15 @@
         </mxCell>
         <mxCell id="da0eoVxicawtdHhnWzWs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.641;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="da0eoVxicawtdHhnWzWs-34" target="da0eoVxicawtdHhnWzWs-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yeU_QTNheyApjWKZvlYw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yeU_QTNheyApjWKZvlYw-1" target="yeU_QTNheyApjWKZvlYw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yeU_QTNheyApjWKZvlYw-1" value="Opponent has rear bodyock on me" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1105" y="562" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yeU_QTNheyApjWKZvlYw-2" value="Break grips, kimura trap" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1082" y="647" width="74" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
