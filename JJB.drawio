@@ -187,17 +187,14 @@
         <mxCell id="YqTYIotw7Hb3FuIygsJo-51" value="Opponent gets up" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="650" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YqTYIotw7Hb3FuIygsJo-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-52" target="YqTYIotw7Hb3FuIygsJo-53" edge="1">
+        <mxCell id="YqTYIotw7Hb3FuIygsJo-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-52" target="YqTYIotw7Hb3FuIygsJo-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqTYIotw7Hb3FuIygsJo-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-52" target="YqTYIotw7Hb3FuIygsJo-54" edge="1">
+        <mxCell id="5StmYwcYpO4lQ6hpi0sl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqTYIotw7Hb3FuIygsJo-52" target="5StmYwcYpO4lQ6hpi0sl-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-52" value="K guard" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="710" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTYIotw7Hb3FuIygsJo-53" value="Matrix -&amp;gt; Crab ride" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="762" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-54" value="Calf slicer" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-186" y="773" width="60" height="30" as="geometry" />
@@ -223,20 +220,11 @@
         <mxCell id="YqTYIotw7Hb3FuIygsJo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.425;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-50" target="YqTYIotw7Hb3FuIygsJo-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YqTYIotw7Hb3FuIygsJo-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="YqTYIotw7Hb3FuIygsJo-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="da0eoVxicawtdHhnWzWs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="YqTYIotw7Hb3FuIygsJo-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-64" value="Half guard" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="584" y="540" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTYIotw7Hb3FuIygsJo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-65" target="YqTYIotw7Hb3FuIygsJo-73" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTYIotw7Hb3FuIygsJo-65" value="Opponent stays straight" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="615" width="140" height="25" as="geometry" />
+          <mxGeometry x="784" y="580" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-73" target="YqTYIotw7Hb3FuIygsJo-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -244,8 +232,11 @@
         <mxCell id="5_f6zELy44Cx4DSriX5r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-73" target="jegOV71N1-6byAUohWak-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5StmYwcYpO4lQ6hpi0sl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YqTYIotw7Hb3FuIygsJo-73" target="5StmYwcYpO4lQ6hpi0sl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-73" value="Z guard" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="670" width="50" height="20" as="geometry" />
+          <mxGeometry x="720" y="710" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-75" target="YqTYIotw7Hb3FuIygsJo-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -254,7 +245,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-75" value="Push opponent off, get underhook" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="710" width="110" height="30" as="geometry" />
+          <mxGeometry x="690" y="750" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-76" target="YqTYIotw7Hb3FuIygsJo-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -263,37 +254,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-76" value="Near leg turk" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="505" y="760" width="80" height="30" as="geometry" />
+          <mxGeometry x="705" y="800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-78" value="Opponent keeps far knee close: grab and pull for the sweep" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="810" width="105" height="70" as="geometry" />
+          <mxGeometry x="695" y="850" width="105" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-82" target="YqTYIotw7Hb3FuIygsJo-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-82" value="Opponent tries getting up" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="757" width="90" height="40" as="geometry" />
+          <mxGeometry x="580" y="797" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-83" value="Wrestle up to single leg" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="817" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="857" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-86" target="YqTYIotw7Hb3FuIygsJo-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-86" value="Opponent raises far knee off the floor" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="565" y="910" width="110" height="40" as="geometry" />
+          <mxGeometry x="765" y="950" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-87" value="Underhook far leg, roll for the sweep" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="564" y="970" width="110" height="40" as="geometry" />
+          <mxGeometry x="764" y="1010" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5_f6zELy44Cx4DSriX5r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-92" target="5_f6zELy44Cx4DSriX5r-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-92" value="Opponent is pressing into me" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="618" width="99" height="30" as="geometry" />
+          <mxGeometry x="990" y="658" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-93" value="Throw opponent forward, swing outside leg, wrestle up" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="795" y="722" width="96" height="65" as="geometry" />
+          <mxGeometry x="995" y="762" width="96" height="65" as="geometry" />
         </mxCell>
         <mxCell id="5StmYwcYpO4lQ6hpi0sl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YqTYIotw7Hb3FuIygsJo-97" target="5StmYwcYpO4lQ6hpi0sl-5">
           <mxGeometry relative="1" as="geometry" />
@@ -510,20 +501,20 @@
         <mxCell id="jegOV71N1-6byAUohWak-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jegOV71N1-6byAUohWak-6" target="jegOV71N1-6byAUohWak-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jegOV71N1-6byAUohWak-6" value="Giggler sweep" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="682" y="774.5" width="50" height="40" as="geometry" />
+        <mxCell id="jegOV71N1-6byAUohWak-6" value="Giggler sweep" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="882" y="814.5" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jegOV71N1-6byAUohWak-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jegOV71N1-6byAUohWak-8" target="YqTYIotw7Hb3FuIygsJo-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jegOV71N1-6byAUohWak-8" value="Opponent posts" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="667" y="831.5" width="80" height="40" as="geometry" />
+        <mxCell id="jegOV71N1-6byAUohWak-8" value="Opponent posts" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="867" y="871.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jegOV71N1-6byAUohWak-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jegOV71N1-6byAUohWak-11" target="jegOV71N1-6byAUohWak-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jegOV71N1-6byAUohWak-11" value="Battle for underhook, limp arm out, get opponent&#39;s arm across" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="649" y="695" width="113" height="61" as="geometry" />
+        <mxCell id="jegOV71N1-6byAUohWak-11" value="Battle for underhook, limp arm out, get opponent&#39;s arm across" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="849" y="735" width="113" height="61" as="geometry" />
         </mxCell>
         <mxCell id="wxve3nZFb2cJyRnTqTCV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wxve3nZFb2cJyRnTqTCV-2" target="jegOV71N1-6byAUohWak-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -577,7 +568,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5_f6zELy44Cx4DSriX5r-9" value="RDLR" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="818" y="673" width="46" height="23" as="geometry" />
+          <mxGeometry x="1018" y="713" width="46" height="23" as="geometry" />
         </mxCell>
         <mxCell id="da0eoVxicawtdHhnWzWs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="da0eoVxicawtdHhnWzWs-1" target="da0eoVxicawtdHhnWzWs-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -660,16 +651,25 @@
           <mxGeometry x="-912" y="659" width="74" height="38" as="geometry" />
         </mxCell>
         <mxCell id="5StmYwcYpO4lQ6hpi0sl-1" value="Slide near leg across, put far leg off, technical stand-up" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-263" y="818" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5StmYwcYpO4lQ6hpi0sl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YqTYIotw7Hb3FuIygsJo-52" target="5StmYwcYpO4lQ6hpi0sl-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-278" y="816" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5StmYwcYpO4lQ6hpi0sl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5StmYwcYpO4lQ6hpi0sl-5" target="YqTYIotw7Hb3FuIygsJo-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5StmYwcYpO4lQ6hpi0sl-5" value="Opponent is on his knees" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="683" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5StmYwcYpO4lQ6hpi0sl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5StmYwcYpO4lQ6hpi0sl-8" target="5StmYwcYpO4lQ6hpi0sl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5StmYwcYpO4lQ6hpi0sl-8" value="Opponent smashes top leg, is pushing into me" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="743" width="134" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5StmYwcYpO4lQ6hpi0sl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.64;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="YqTYIotw7Hb3FuIygsJo-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5StmYwcYpO4lQ6hpi0sl-12" value="&lt;div&gt;Triangle&lt;/div&gt;&lt;div&gt;https://tinyurl.com/3aszxzhp&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="424" y="805" width="123" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
