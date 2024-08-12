@@ -347,7 +347,7 @@
           <mxGeometry x="-485" y="824.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qYz4F4hQQBjF0K6vGnrU-17" value="X guard -&amp;gt; sweep" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-132" y="767" width="70" height="35" as="geometry" />
+          <mxGeometry x="-152" y="715" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3-rzpKN8NEM8My0PdeGC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3-rzpKN8NEM8My0PdeGC-3" target="3-rzpKN8NEM8My0PdeGC-6" edge="1">
           <mxGeometry relative="1" as="geometry">
