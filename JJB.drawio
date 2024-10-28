@@ -732,7 +732,7 @@
           <mxGeometry x="-1441" y="617" width="82" height="26" as="geometry" />
         </mxCell>
         <mxCell id="j5S-FV8Wk390uy4bcS23-16" value="Front headlock" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1337" y="614" width="63" height="37" as="geometry" />
+          <mxGeometry x="-1337" y="617" width="63" height="37" as="geometry" />
         </mxCell>
         <mxCell id="j5S-FV8Wk390uy4bcS23-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j5S-FV8Wk390uy4bcS23-19" target="j5S-FV8Wk390uy4bcS23-3">
           <mxGeometry relative="1" as="geometry" />
