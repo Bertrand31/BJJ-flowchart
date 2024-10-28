@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.3">
   <diagram name="Page-1" id="755VJTgzaLKeoNQUCu-q">
-    <mxGraphModel dx="3674" dy="910" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="910" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,7 +274,7 @@
         <mxCell id="YqTYIotw7Hb3FuIygsJo-86" value="Opponent raises far knee off the floor" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="950" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YqTYIotw7Hb3FuIygsJo-87" value="Underhook far leg, roll for the sweep" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YqTYIotw7Hb3FuIygsJo-87" value="Underhook far leg, roll for the sweep" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="764" y="1010" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5_f6zELy44Cx4DSriX5r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-92" target="5_f6zELy44Cx4DSriX5r-9" edge="1">
@@ -827,10 +827,13 @@
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-12" target="0_gpQqt6G6AmX-MkH0aH-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-12" target="0_gpQqt6G6AmX-MkH0aH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-12" value="Shoot hunderhook" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1860" y="1013" width="75" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="0_gpQqt6G6AmX-MkH0aH-23" value="Throw by" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-23" value="Throw by" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1853" y="1066" width="57" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-25" target="0_gpQqt6G6AmX-MkH0aH-27">
@@ -871,6 +874,45 @@
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-45" value="Get collar tie" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1175" y="944" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-48" target="0_gpQqt6G6AmX-MkH0aH-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-48" target="0_gpQqt6G6AmX-MkH0aH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-48" value="Opponent is on my back" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="965" width="150" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-49" target="0_gpQqt6G6AmX-MkH0aH-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-49" value="He has two hooks in" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="1033" width="125" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-50" value="He has a body triangle" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1029" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-51" target="0_gpQqt6G6AmX-MkH0aH-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-51" value="Roll over to the underhook side" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1156" width="97" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-52" target="0_gpQqt6G6AmX-MkH0aH-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-52" value="2 on 1 on choking arm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="1089" width="83" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-55" target="0_gpQqt6G6AmX-MkH0aH-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-55" value="Bridge, get head on the floor on the underhook side" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="1229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-60" value="Extend bottom leg, free it up" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="1309" width="109" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
