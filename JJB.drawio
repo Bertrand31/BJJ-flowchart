@@ -687,7 +687,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5S-FV8Wk390uy4bcS23-2" value="Heavy, flat opponent with crossface" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1514" y="482" width="128" height="29" as="geometry" />
+          <mxGeometry x="-1514" y="477" width="128" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="j5S-FV8Wk390uy4bcS23-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j5S-FV8Wk390uy4bcS23-3" target="j5S-FV8Wk390uy4bcS23-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5S-FV8Wk390uy4bcS23-3" value="Flat opponent without crossface" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1371" y="480" width="108" height="36" as="geometry" />
