@@ -223,6 +223,9 @@
         <mxCell id="da0eoVxicawtdHhnWzWs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="YqTYIotw7Hb3FuIygsJo-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="TaRGztIW1naDgSAWXzSs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-64" value="Half guard" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="784" y="580" width="70" height="30" as="geometry" />
         </mxCell>
@@ -967,6 +970,12 @@
         </mxCell>
         <mxCell id="TaRGztIW1naDgSAWXzSs-4" value="Get back to butterfly" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1551" y="340" width="118" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-9" target="jegOV71N1-6byAUohWak-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-9" value="Half butterfly" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871" y="647" width="83" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
