@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="755VJTgzaLKeoNQUCu-q">
-    <mxGraphModel dx="3936" dy="931" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="910" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -887,7 +887,7 @@
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-49" value="He has two hooks in" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-34" y="1033" width="125" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-50" target="Ei34eA-5iRJab68hxRxm-3">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0_gpQqt6G6AmX-MkH0aH-50" target="Ei34eA-5iRJab68hxRxm-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-50" value="He has a body triangle" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -911,41 +911,62 @@
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-55" value="Bridge, get head on the floor on the underhook side" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-33" y="1229" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-60" target="Ei34eA-5iRJab68hxRxm-1">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0_gpQqt6G6AmX-MkH0aH-60" target="Ei34eA-5iRJab68hxRxm-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-60" value="Extend bottom leg, free it up" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-32" y="1309" width="109" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-1" value="Turn top leg inwards, wedge top arm against opponent&#39;s hips" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-1" value="Turn top leg inwards, wedge top arm against opponent&#39;s hips" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-43" y="1368" width="132" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ei34eA-5iRJab68hxRxm-3" target="Ei34eA-5iRJab68hxRxm-4">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ei34eA-5iRJab68hxRxm-3" target="Ei34eA-5iRJab68hxRxm-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-3" value="Top side triangle, strangle arm on bottom" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-3" value="Top side triangle, strangle arm on bottom" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1080" width="133" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ei34eA-5iRJab68hxRxm-4" target="Ei34eA-5iRJab68hxRxm-5">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ei34eA-5iRJab68hxRxm-4" target="Ei34eA-5iRJab68hxRxm-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-4" value="Wedge my bottom bicep underneath opponen&#39;ts bottom knee" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-4" value="Wedge my bottom bicep underneath opponen&#39;ts bottom knee" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="146" y="1138" width="138" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ei34eA-5iRJab68hxRxm-5" target="Ei34eA-5iRJab68hxRxm-6">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ei34eA-5iRJab68hxRxm-5" target="Ei34eA-5iRJab68hxRxm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-5" value="Turn own hip downwards, trap opponent&#39;s top leg with my top leg" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-5" value="Turn own hip downwards, trap opponent&#39;s top leg with my top leg" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ei34eA-5iRJab68hxRxm-6" target="Ei34eA-5iRJab68hxRxm-7">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ei34eA-5iRJab68hxRxm-6" target="Ei34eA-5iRJab68hxRxm-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-6" value="Grap opponent&#39;s top leg with my bottom arm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-6" value="Grap opponent&#39;s top leg with my bottom arm" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="146" y="1289" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ei34eA-5iRJab68hxRxm-7" value="Get opponent&#39;s top leg out of the way, slide hips to mat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ei34eA-5iRJab68hxRxm-7" value="Get opponent&#39;s top leg out of the way, slide hips to mat" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="1359" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-1" target="TaRGztIW1naDgSAWXzSs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-1" value="Bottom mount" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1451" y="138" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-2" target="TaRGztIW1naDgSAWXzSs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-2" value="Opponent is seating up" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="196" width="79" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-3" target="TaRGztIW1naDgSAWXzSs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-3" value="Get to an elbow, then a hand, from off off their shoulders" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1551" y="251" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaRGztIW1naDgSAWXzSs-4" value="Get back to butterfly" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1551" y="340" width="118" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
