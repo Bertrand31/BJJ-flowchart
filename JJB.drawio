@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Page-1" id="755VJTgzaLKeoNQUCu-q">
     <mxGraphModel dx="3434" dy="910" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="da0eoVxicawtdHhnWzWs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="YqTYIotw7Hb3FuIygsJo-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="TaRGztIW1naDgSAWXzSs-9">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YqTYIotw7Hb3FuIygsJo-64" target="TaRGztIW1naDgSAWXzSs-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqTYIotw7Hb3FuIygsJo-64" value="Half guard" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -950,31 +950,31 @@
         <mxCell id="Ei34eA-5iRJab68hxRxm-7" value="Get opponent&#39;s top leg out of the way, slide hips to mat" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="1359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-1" target="TaRGztIW1naDgSAWXzSs-2">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TaRGztIW1naDgSAWXzSs-1" target="TaRGztIW1naDgSAWXzSs-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-1" value="Bottom mount" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-1" value="Bottom mount" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1451" y="138" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-2" target="TaRGztIW1naDgSAWXzSs-3">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TaRGztIW1naDgSAWXzSs-2" target="TaRGztIW1naDgSAWXzSs-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-2" value="Opponent is seating up" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-2" value="Opponent is seating up" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1530" y="196" width="79" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-3" target="TaRGztIW1naDgSAWXzSs-4">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TaRGztIW1naDgSAWXzSs-3" target="TaRGztIW1naDgSAWXzSs-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-3" value="Get to an elbow, then a hand, from off off their shoulders" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-3" value="Get to an elbow, then a hand, frame off of their shoulders" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1551" y="251" width="118" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-4" value="Get back to butterfly" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-4" value="Get back to butterfly" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1551" y="340" width="118" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaRGztIW1naDgSAWXzSs-9" target="jegOV71N1-6byAUohWak-11">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TaRGztIW1naDgSAWXzSs-9" target="jegOV71N1-6byAUohWak-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaRGztIW1naDgSAWXzSs-9" value="Half butterfly" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TaRGztIW1naDgSAWXzSs-9" value="Half butterfly" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="871" y="647" width="83" height="26" as="geometry" />
         </mxCell>
       </root>
