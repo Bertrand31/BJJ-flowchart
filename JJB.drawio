@@ -977,6 +977,57 @@
         <mxCell id="TaRGztIW1naDgSAWXzSs-9" value="Half butterfly" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="871" y="647" width="83" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-1" target="oqU7hOQpbUixa0hbfp5v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-1" target="oqU7hOQpbUixa0hbfp5v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-1" target="oqU7hOQpbUixa0hbfp5v-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-1" value="Front headlock" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-664" y="1095" width="106" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-2" target="oqU7hOQpbUixa0hbfp5v-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-2" value="Opponent reaches for one leg" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-739" y="1161" width="107" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-3" target="oqU7hOQpbUixa0hbfp5v-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-3" value="3/4 nelson" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="1221" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-4" value="d&#39;Arce" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-715" y="1276" width="57" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-5" target="oqU7hOQpbUixa0hbfp5v-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-5" value="Opponent reaches for two legs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="1161" width="113" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-6" value="Arm-in guilly" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-864" y="1231" width="76" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-12" target="oqU7hOQpbUixa0hbfp5v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-12" value="Opponent defends neck" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-607" y="1160" width="89" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-13" target="oqU7hOQpbUixa0hbfp5v-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-13" value="Threaten go-behind" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-614" y="1225" width="116" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-14" value="High-wrist guilly" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-606" y="1274" width="99" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
