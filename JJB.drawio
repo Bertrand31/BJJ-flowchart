@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.9.2">
   <diagram name="Page-1" id="755VJTgzaLKeoNQUCu-q">
     <mxGraphModel dx="3434" dy="791" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,12 +813,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-9" value="Misdirection: duck under on the near side, get single leg on the other" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1332" y="972" width="130" height="68" as="geometry" />
+          <mxGeometry x="-1326" y="985" width="130" height="68" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0_gpQqt6G6AmX-MkH0aH-10" target="0_gpQqt6G6AmX-MkH0aH-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_gpQqt6G6AmX-MkH0aH-10" value="I get a collar tie" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0_gpQqt6G6AmX-MkH0aH-10" value="Two bicep ties" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1188" y="886" width="97" height="32" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0_gpQqt6G6AmX-MkH0aH-11" target="0_gpQqt6G6AmX-MkH0aH-39" edge="1">
@@ -841,6 +841,9 @@
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-25" value="I can&#39;t get an underhook" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1853" y="1009" width="86" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1HuRHkMDcHD_9qAfdLnu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-27" target="1HuRHkMDcHD_9qAfdLnu-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-27" value="Slide by" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1839" y="1067" width="55" height="27" as="geometry" />
@@ -1040,23 +1043,26 @@
         <mxCell id="HWtVjN4S7S5SvLxtu6l7-5" value="Opponent is chest-to-chest" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1389" y="193" width="93" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ucNLLB1RWhwJjtJG8pP--1" target="ucNLLB1RWhwJjtJG8pP--2">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ucNLLB1RWhwJjtJG8pP--1" target="ucNLLB1RWhwJjtJG8pP--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--1" value="Opponent keeps head in thhe middle" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--1" value="Opponent keeps head in thhe middle" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-462" y="1158" width="95" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ucNLLB1RWhwJjtJG8pP--2" target="ucNLLB1RWhwJjtJG8pP--3">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ucNLLB1RWhwJjtJG8pP--2" target="ucNLLB1RWhwJjtJG8pP--3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--2" value="Fold his arm, roll" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--2" value="Fold his arm, roll" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-464" y="1230" width="103" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--3" value="Anaconda" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--3" value="Anaconda" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-443" y="1279" width="61" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.495;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oqU7hOQpbUixa0hbfp5v-1" target="ucNLLB1RWhwJjtJG8pP--1">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.495;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oqU7hOQpbUixa0hbfp5v-1" target="ucNLLB1RWhwJjtJG8pP--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HuRHkMDcHD_9qAfdLnu-1" value="Double Leg" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1849" y="1127" width="72" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
