@@ -842,7 +842,7 @@
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-25" value="I can&#39;t get an underhook" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1853" y="1009" width="86" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="1HuRHkMDcHD_9qAfdLnu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_gpQqt6G6AmX-MkH0aH-27" target="1HuRHkMDcHD_9qAfdLnu-1">
+        <mxCell id="1HuRHkMDcHD_9qAfdLnu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0_gpQqt6G6AmX-MkH0aH-27" target="1HuRHkMDcHD_9qAfdLnu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0_gpQqt6G6AmX-MkH0aH-27" value="Slide by" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1016,8 +1016,8 @@
         <mxCell id="oqU7hOQpbUixa0hbfp5v-5" value="Opponent reaches for two legs" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-862" y="1161" width="113" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="oqU7hOQpbUixa0hbfp5v-6" value="Arm-in guilly" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-846" y="1231" width="76" height="23" as="geometry" />
+        <mxCell id="oqU7hOQpbUixa0hbfp5v-6" value="High wrist arm-in guilly" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-846" y="1231" width="76" height="37" as="geometry" />
         </mxCell>
         <mxCell id="oqU7hOQpbUixa0hbfp5v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oqU7hOQpbUixa0hbfp5v-12" target="oqU7hOQpbUixa0hbfp5v-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1052,16 +1052,16 @@
         <mxCell id="ucNLLB1RWhwJjtJG8pP--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ucNLLB1RWhwJjtJG8pP--2" target="ucNLLB1RWhwJjtJG8pP--3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--2" value="Fold his arm, roll" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--2" value="Fold his arm, roll" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-464" y="1230" width="103" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="ucNLLB1RWhwJjtJG8pP--3" value="Anaconda" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ucNLLB1RWhwJjtJG8pP--3" value="Anaconda" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-443" y="1279" width="61" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ucNLLB1RWhwJjtJG8pP--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.495;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oqU7hOQpbUixa0hbfp5v-1" target="ucNLLB1RWhwJjtJG8pP--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HuRHkMDcHD_9qAfdLnu-1" value="Double Leg" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1HuRHkMDcHD_9qAfdLnu-1" value="Double Leg" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1849" y="1127" width="72" height="23" as="geometry" />
         </mxCell>
       </root>
