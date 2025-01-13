@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.9.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.4">
   <diagram name="Page-1" id="755VJTgzaLKeoNQUCu-q">
-    <mxGraphModel dx="3434" dy="791" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3886" dy="791" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -647,11 +647,17 @@
         <mxCell id="yeU_QTNheyApjWKZvlYw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yeU_QTNheyApjWKZvlYw-1" target="yeU_QTNheyApjWKZvlYw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ombo62AxWFdLOjQS0_o1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yeU_QTNheyApjWKZvlYw-1" target="ombo62AxWFdLOjQS0_o1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ombo62AxWFdLOjQS0_o1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yeU_QTNheyApjWKZvlYw-1" target="ombo62AxWFdLOjQS0_o1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yeU_QTNheyApjWKZvlYw-1" value="Opponent has rear bodyock on me" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-935" y="574" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeU_QTNheyApjWKZvlYw-2" value="Break grips, kimura trap" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-912" y="659" width="74" height="38" as="geometry" />
+          <mxGeometry x="-845" y="675" width="74" height="38" as="geometry" />
         </mxCell>
         <mxCell id="5StmYwcYpO4lQ6hpi0sl-1" value="Slide near leg across, put far leg off, technical stand-up" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-278" y="816" width="120" height="60" as="geometry" />
@@ -1063,6 +1069,12 @@
         </mxCell>
         <mxCell id="1HuRHkMDcHD_9qAfdLnu-1" value="Double Leg" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1849" y="1127" width="72" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ombo62AxWFdLOjQS0_o1-1" value="Hip switch" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-941" y="684" width="72" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ombo62AxWFdLOjQS0_o1-3" value="Gramby roll" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1032" y="685" width="78" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
