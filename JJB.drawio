@@ -1118,7 +1118,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EFU0UIoSP-TZkE4x4o8i-22" value="Octopus guard to backtake" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="1092" width="103" height="38" as="geometry" />
+          <mxGeometry x="1008" y="1032" width="103" height="38" as="geometry" />
         </mxCell>
         <mxCell id="EFU0UIoSP-TZkE4x4o8i-25" value="Pull wrist far diagonally, expose the back" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="972" y="728" width="107" height="46" as="geometry" />
@@ -1150,8 +1150,8 @@
         <mxCell id="EFU0UIoSP-TZkE4x4o8i-34" value="Opponent&#39;s knee is on the floor" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#B85450,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="851" y="858.5" width="103" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="EFU0UIoSP-TZkE4x4o8i-39" value="Shoulder crunch butterfly sweep" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="885" y="1113" width="106" height="34" as="geometry" />
+        <mxCell id="EFU0UIoSP-TZkE4x4o8i-39" value="Side crunch on opposite side, sweep" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="879" y="1113" width="122" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
